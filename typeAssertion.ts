@@ -9,6 +9,7 @@ let num: number = Math.floor(value2 as number)
 console.log(num)
 
 
+
 //NOTE -> 
 //differnce between any and unknown
 //any -> can be assigned to any type without any errors or type safety checks
