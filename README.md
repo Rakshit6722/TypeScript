@@ -9,3 +9,8 @@
 - Advanced Types -> Union and Intersection
 - Type Assertion
 - any and unknown
+
+***11 December 2024***
+- Classes and Objects
+- Inheritance
+- Encapsulation
