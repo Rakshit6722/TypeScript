@@ -18,4 +18,4 @@
 ***12 December 2024***
 - Polymorphism
 - Abstraction
-- Practice Problems -> OOPS
+- Practice Problems - OOPS
