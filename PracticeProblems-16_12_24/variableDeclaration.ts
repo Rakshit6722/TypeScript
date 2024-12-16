@@ -1,8 +1,10 @@
-function func(param: string|number):number {
+function func(param: unknown):number {
     if(typeof param === "string"){
-        return param.length
+        return (param as string).length
+    }else{
+        return (param as number)**2
     }
-    return param**2
+    
 }
 
 console.log(func("Hello"))
