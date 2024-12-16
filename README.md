@@ -19,3 +19,13 @@
 - Polymorphism
 - Abstraction
 - Practice Problems - OOPS
+
+***16 December 2024***
+- Practice Problems
+    - Variable declaration
+    - Type assertion
+    - class and objects
+    - inheritance
+    - polymorphism
+    - abstraction
+    - encapsulation
