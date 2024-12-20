@@ -29,3 +29,11 @@
     - polymorphism
     - abstraction
     - encapsulation
+
+***20 December 2024***
+- Pracitce Problems
+    - readonly modifier
+    - abstraction, polymorphism, inheritance
+    - Library System
+    - University System
+    - Shopping cart
