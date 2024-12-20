@@ -1,6 +1,6 @@
 interface Person{
-    name: string,
-    age: number
+    name1: string,
+    age2: number
 }
 
 function displayDetails(arr: unknown[]): void{
